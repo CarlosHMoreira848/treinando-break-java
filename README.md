@@ -1,2 +1,15 @@
 # treinando-break-java
-Exercício de treinamento do comando 'break' em um contador até 100.
+- Data: 12/02/2024
+- Contexto: Formação CÓDIGO DE BASE da Educ360° em parceria com a Foursys! | Curso CDB - Java Back-End
+- O que é: Um programa de baixa complexidade de treinamento do comando 'break' em um contador até 100.
+- Temas envolvidos:
+  - Variáveis;
+  - Saída de dados: System.out.println();
+  - Entrada de dados: 'objeto'.nextInt();
+  - Operadores relacionais: '<=' e '<';
+  - Operador lógico: '||' (ou);
+  - Estrutura de repetição: 'for';
+  - Estrutura condicional: 'if';
+  - Estrutura de repetição 'for' aninhanda;
+  - Incremento de variável: '++';
+  - Comando: 'break';
