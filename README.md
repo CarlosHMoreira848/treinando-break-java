@@ -1,4 +1,4 @@
-# treinando-break-java
+# Programa: Treinando o comando 'break' em Java!
 - Data: 12/02/2024
 - Contexto: Formação CÓDIGO DE BASE da Educ360° em parceria com a Foursys! | Curso CDB - Java Back-End
 - O que é: Um programa de baixa complexidade de treinamento do comando 'break' em um contador até 100.
