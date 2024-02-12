@@ -11,10 +11,10 @@ public class TreinandoBreak {
 		} else {
 			for(int i = 0; i <= 100; i++) {
 				if(parada == i) {
-					System.out.println(i + " ");
+					System.out.println(i);
 					break;
 				}
-				System.out.println(i + " ");
+				System.out.println(i);
 			}
 		}
 	}
