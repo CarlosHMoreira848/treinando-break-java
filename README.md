@@ -10,6 +10,6 @@
   - Operador lógico: '||' (ou);
   - Estrutura de repetição: 'for';
   - Estrutura condicional: 'if';
-  - Estrutura de repetição 'for' aninhanda;
   - Incremento de variável: '++';
   - Comando: 'break';
+  - Biblioteca: java.Util.Scanner;
